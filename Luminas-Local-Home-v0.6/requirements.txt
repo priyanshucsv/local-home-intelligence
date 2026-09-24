@@ -1,0 +1,1 @@
+# Luminas Local Home v0.6 uses only the Python standard library.

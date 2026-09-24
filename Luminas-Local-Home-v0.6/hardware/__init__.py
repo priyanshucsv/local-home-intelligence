@@ -1,0 +1,1 @@
+"""Future physical adapter boundary."""
