@@ -1,4 +1,4 @@
-# Luminas Local Home v0.6
+# Local Home v0.6 by @priyanshucsv (Luminas)
 
 ## Local Home Digital Twin — Software Release Candidate
 
